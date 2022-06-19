@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1> Olá! Eu sou o Alexandre! </h1>
 
-<!--
-**alexandre-jr-94/alexandre-jr-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/alexandre-jr-94">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexandre-jr-94&show_icons=true&theme=dracula&include_all_commits=true& count_private=true"/>    
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-jr-94&layout=compact&langs_count=7&theme=dracula"/>
+</div><div align="center">
+  
+  ##
+  
+  <b> Atualmente estudando JavaScript </b>
+  
+  ##

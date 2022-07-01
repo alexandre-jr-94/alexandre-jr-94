@@ -7,8 +7,8 @@
   
   ##
   
-  <b> Atualmente estudando JavaScript </b>
+  <b> Atualmente estudando JavaScript. </b>
   
   ##
   
-  <p>Ex-importador que aprendeu programação e resolveu trabalhar com isso.</p>
+  <p>Ex-importador que aprendeu programação e resolveu trabalhar com isso. </p>

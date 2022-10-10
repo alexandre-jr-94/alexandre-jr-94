@@ -1,7 +1,7 @@
 <h1> Olá! Eu sou o Alexandre! </h1>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-jr-94&show_icons=true&theme=radical&locale=en&count_private=true&layout=compact" width="375" alt="alexandre" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-jr-94&show_icons=true&theme=radical&locale=en&langs_count=10&layout=compact" width="375" alt="alexandre" /></p>
 
 ##
   

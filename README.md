@@ -16,7 +16,7 @@
 
 <p>Certificados </br>
 CCNA </br>
-Networking Academy Learn-A-Thon 2023</p>p>
+Networking Academy Learn-A-Thon 2023</p>
 
 
 I love open source.<br>

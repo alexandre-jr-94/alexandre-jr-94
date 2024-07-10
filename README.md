@@ -14,7 +14,6 @@
 ##
 
 <p>Certificados </br>
-CCNA </br>
 Networking Academy Learn-A-Thon 2023 </br>
 CyberOps Associate 
 

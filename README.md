@@ -14,7 +14,7 @@
 ##
 
 <p>Certificados </br>
-CCNA </br>
+CCNA 2024</br>
 CMNA </br>
 BlackBelt Meraki Deployment </br>
 BlackBelt Catalyst Center </br>

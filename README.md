@@ -15,6 +15,7 @@
 
 <p>Certificados </br>
 CCNA </br>
+CMNA </br>
 BlackBelt Meraki Deployment </br>
 BlackBelt Catalyst Center </br>
 BlackBelt AI Fundamentals </br>

@@ -13,15 +13,14 @@
   
 ##
 
-<p>Certificados </br>
-CCNA - 2024</br>
-CMNA </br>
-BlackBelt Meraki Deployment </br>
-BlackBelt Catalyst Center </br>
-BlackBelt AI Fundamentals </br>
-BlackBelt Secure Networking </br>
-Fortinet Certified Associate Cybersecurity </br>
+<p>
+## 🧠 Certificações </br>
+
+- 📜 **CCNA** – Cisco Certified Network Associate (2024)  </br>
+- 📜 **CMNA** – Cisco Meraki Network Associate  </br>
+- 🥋 **BlackBelt Meraki Deployment**  </br>
+- 🥋 **BlackBelt Catalyst Center**  </br>
+- 🥋 **BlackBelt AI Fundamentals**  </br>
+- 🥋 **BlackBelt Secure Networking**  </br>
+- 🛡️ **Fortinet Certified Associate Cybersecurity**  </br>
 </p>
-
-
-

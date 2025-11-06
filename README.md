@@ -20,6 +20,7 @@ BlackBelt Meraki Deployment </br>
 BlackBelt Catalyst Center </br>
 BlackBelt AI Fundamentals </br>
 BlackBelt Secure Networking </br>
+Fortinet Certified Associate Cybersecurity </br>
 </p>
 
 

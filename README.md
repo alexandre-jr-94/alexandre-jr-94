@@ -1,26 +1,35 @@
-<h1> Hi! I'm Alexandre! </h1>
+```
+     \     |                                 |            
+    _ \    |   _ \ \ \  /   _` |  __ \    _` |   __|  _ \ 
+   ___ \   |   __/  `  <   (   |  |   |  (   |  |     __/ 
+ _/    _\ _| \___|  _/\_\ \__,_| _|  _| \__,_| _|   \___| 
+                                                          
 
-<br><br>1.  🧑 **PERSONA**<br>
+$ whoami
+alexandre
 
-&emsp;&emsp;&emsp;**Nationality**&emsp;&emsp;&nbsp;: Brazil 🇧🇷<br>
-&emsp;&emsp;&emsp;**About me**&emsp;&emsp;&emsp;: Network and cybersecurity specialist. Passionate about automation, monitoring and secure infrastructures. <br>
+$ hostname
+brazil-node
+
+$ cat /etc/profile
+> Nome: Alexandre
+> Nacionalidade: BR
+> Função: Network & Cybersecurity
+> Foco: Automação, monitoramento e infra segura
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-jr-94&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" width="375" alt="alexandre" /></p>
+$ ls ~/certifications
+ccna_2024.cert
+cmna.cert
+meraki_blackbelt_deployment.badge
+meraki_blackbelt_catalyst_center.badge
+meraki_blackbelt_ai_fundamentals.badge
+meraki_blackbelt_secure_networking.badge
+fortinet_fca_cybersecurity.cert
 
-  
-##
-  
-##
+$ cat ~/certifications/ccna_2024.cert
+Cisco Certified Network Associate (2024)
 
-<p>
-## 🧠 Certificações </br>
-
-- 📜 **CCNA** – Cisco Certified Network Associate (2024)  </br>
-- 📜 **CMNA** – Cisco Meraki Network Associate  </br>
-- 🥋 **BlackBelt Meraki Deployment**  </br>
-- 🥋 **BlackBelt Catalyst Center**  </br>
-- 🥋 **BlackBelt AI Fundamentals**  </br>
-- 🥋 **BlackBelt Secure Networking**  </br>
-- 🛡️ **Fortinet Certified Associate Cybersecurity**  </br>
-</p>
+$ exit
+logout
+```

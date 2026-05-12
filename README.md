@@ -13,7 +13,7 @@ brazil-node
 
 $ cat /etc/profile
 > Função: Network & Cybersecurity
-> Foco: Automação, monitoramento e infra segura
+> Foco: Automação, monitoramento e segurança de rede
 
 
 $ ls ~/certifications

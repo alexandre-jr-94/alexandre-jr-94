@@ -12,8 +12,6 @@ $ hostname
 brazil-node
 
 $ cat /etc/profile
-> Nome: Alexandre
-> Nacionalidade: BR
 > Função: Network & Cybersecurity
 > Foco: Automação, monitoramento e infra segura
 

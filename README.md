@@ -3,7 +3,7 @@
     ,g$$$$$$$$$$$$$$$P.           OS: Debian
   ,g$$P""       """Y$$.".         Uptime: 2 mins
  ,$$P'              `$$$.         DE: MATE
-',$$P       ,ggs.     `$$b:       WM: Metacity (Marco)
+',$$P       ,ggs.     `$$b:       WM: Mutter
 d$$'       ,$P"'   .    $$$       Shell: zsh
 $$P       d$'     ,     $$P       CPU: Intel i5-3340M
 $$:       $$.   -       ,d$$'     Memory: 1.70GiB / 15.57GiB

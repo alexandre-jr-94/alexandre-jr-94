@@ -24,7 +24,7 @@ brazil-node
 
 $ cat /etc/profile
 > Função: Network & Cybersecurity
-> Foco: Automação, monitoramento e segurança de rede
+> Foco: Hardening, monitoramento e segurança de rede
 
 
 $ ls ~/certifications

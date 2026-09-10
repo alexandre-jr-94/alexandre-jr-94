@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Alexandre Andriani — Cibersegurança e Redes</title>
+<desc id="desc">Perfil em formato de terminal, com um computador desktop em ASCII. Certificações CCNA, CMNA e FCA. Foco em Network Security, hardening, VPN, firewalls, IDS/IPS, segmentação, monitoramento e threat hunting. Ferramentas: Cisco Umbrella, Microsoft Defender XDR, KQL, Splunk e Wireshark. Estudos em CCNP Security. Idiomas: português, inglês e francês. Interesses: laboratórios de redes, segurança e automação.</desc>
+<style>
+text {font-family: "DejaVu Sans Mono", Consolas, "Liberation Mono", monospace; font-size: 16px; white-space: pre;}
+.cursor {animation: blink 1.2s steps(1,end) infinite;}
+@keyframes blink {0%,55% {opacity:1} 56%,100% {opacity:0}}
+@media (prefers-reduced-motion: reduce) {.cursor {animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="758" rx="18" fill="#ffffff" stroke="#d2dae4" stroke-width="2"/>
+<path d="M19 2H1181Q1198 2 1198 19V52H2V19Q2 2 19 2Z" fill="#f4f7fa"/>
+<circle cx="28" cy="27" r="6" fill="#c54850"/>
+<circle cx="51" cy="27" r="6" fill="#a16a09"/>
+<circle cx="74" cy="27" r="6" fill="#227345"/>
+<text x="600" y="33" fill="#63748b" style="font-size:13px" text-anchor="middle">alexandre / profile — bash</text>
+<path d="M2 52H1198" stroke="#d2dae4"/>
+<text x="30" y="93" fill="#227345" style="font-size:16px" >alexandre@workstation</text>
+<text x="234" y="93" fill="#63748b" style="font-size:16px" >:~$</text>
+<text x="280" y="93" fill="#29374b" style="font-size:16px" >fastfetch --profile</text>
+<text x="1168" y="93" fill="#63748b" style="font-size:13px" text-anchor="end">~/about-me</text>
+<path d="M30 116H1170" stroke="#d2dae4"/>
+<path d="M394 148V654" stroke="#d2dae4"/>
+<text x="204" y="180" fill="#63748b" style="font-size:13px" text-anchor="middle">/dev/workstation</text>
+<text x="33" y="232" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> .------------------------.  .----------.</text>
+<text x="33" y="251" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | .--------------------. |  |  ======  |</text>
+<text x="33" y="270" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |                    | |  |  ======  |</text>
+<text x="33" y="289" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |  <tspan fill="#29374b">alexandre@lab:~$</tspan>   | |  |          |</text>
+<text x="33" y="308" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |                    | |  |  .----.  |</text>
+<text x="33" y="327" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |  <tspan fill="#227345">&gt; configure</tspan>       | |  |  |####|  |</text>
+<text x="33" y="346" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |  <tspan fill="#9a520d">&gt; defend</tspan>          | |  |  &#x27;----&#x27;  |</text>
+<text x="33" y="365" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |  <tspan fill="#7352aa">&gt; build_</tspan>          | |  |          |</text>
+<text x="33" y="384" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |                    | |  |   .--.   |</text>
+<text x="33" y="403" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | &#x27;--------------------&#x27; |  |   &#x27;--&#x27;   |</text>
+<text x="33" y="422" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> &#x27;------------.-----------&#x27;  |       o  |</text>
+<text x="33" y="441" fill="#087b83" style="font-size:13.4px" xml:space="preserve">          ____|____          &#x27;----------&#x27;</text>
+<text x="33" y="460" fill="#087b83" style="font-size:13.4px" xml:space="preserve">         /_________\                     </text>
+<text x="33" y="479" fill="#087b83" style="font-size:13.4px" xml:space="preserve">  .---------------------------.         </text>
+<text x="33" y="498" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> /  [] [] [] [] [] [] [] [] []  \  .--.  </text>
+<text x="33" y="517" fill="#087b83" style="font-size:13.4px" xml:space="preserve">/  [] [] [] [] [] [] [] [] [] [] \ |  |  </text>
+<text x="33" y="536" fill="#087b83" style="font-size:13.4px" xml:space="preserve">&#x27;-------------------------------&#x27; &#x27;--&#x27;  </text>
+<text x="204" y="588" fill="#29374b" style="font-size:13px" text-anchor="middle" letter-spacing="0.5">CONFIGURE. DEFEND. BUILD.</text>
+<text x="204" y="615" fill="#63748b" style="font-size:12px" text-anchor="middle">[ CCNA ]  [ CMNA ]  [ FCA ]</text>
+<text x="424" y="167" fill="#29374b" style="font-size:23px" font-weight="bold">Alexandre Andriani</text>
+<text x="424" y="195" fill="#087b83" style="font-size:16px" >Cibersegurança &amp; Redes</text>
+<text x="424" y="230" fill="#9a520d" style="font-size:16px" >OS</text>
+<text x="462.6" y="230" fill="#a5b3c4" style="font-size:16px" >...............................................</text>
+<text x="1168" y="230" fill="#235e92" style="font-size:16px" text-anchor="end">Windows 11 / Ubuntu 24.04</text>
+<text x="424" y="255" fill="#9a520d" style="font-size:16px" >Certificações</text>
+<text x="568.75" y="255" fill="#a5b3c4" style="font-size:16px" >............................................</text>
+<text x="1168" y="255" fill="#235e92" style="font-size:16px" text-anchor="end">CCNA / CMNA / FCA</text>
+<text x="424" y="294" fill="#087b83" style="font-size:13px" >01</text>
+<text x="455" y="294" fill="#63748b" style="font-size:13px" letter-spacing="1.2">FOCO TÉCNICO</text>
+<path d="M581 290H1168" stroke="#d2dae4"/>
+<text x="424" y="323" fill="#9a520d" style="font-size:16px" >Redes</text>
+<text x="491.55" y="323" fill="#a5b3c4" style="font-size:16px" >............................................</text>
+<text x="1168" y="323" fill="#235e92" style="font-size:16px" text-anchor="end">Cisco / Meraki / Fortinet</text>
+<text x="424" y="348" fill="#9a520d" style="font-size:16px" >Foco</text>
+<text x="481.9" y="348" fill="#a5b3c4" style="font-size:16px" >....................................</text>
+<text x="1168" y="348" fill="#235e92" style="font-size:16px" text-anchor="end">Network Security / Hardening / VPN</text>
+<text x="424" y="373" fill="#9a520d" style="font-size:16px" >Proteção</text>
+<text x="520.5" y="373" fill="#a5b3c4" style="font-size:16px" >.................................</text>
+<text x="1168" y="373" fill="#235e92" style="font-size:16px" text-anchor="end">Firewalls / IDS/IPS / Segmentação</text>
+<text x="424" y="398" fill="#9a520d" style="font-size:16px" >Defesa</text>
+<text x="501.2" y="398" fill="#a5b3c4" style="font-size:16px" >......................................</text>
+<text x="1168" y="398" fill="#235e92" style="font-size:16px" text-anchor="end">Threat Hunting / Monitoramento</text>
+<text x="424" y="437" fill="#087b83" style="font-size:13px" >02</text>
+<text x="455" y="437" fill="#63748b" style="font-size:13px" letter-spacing="1.2">SEGURANÇA &amp; FERRAMENTAS</text>
+<path d="M680 433H1168" stroke="#d2dae4"/>
+<text x="424" y="466" fill="#9a520d" style="font-size:16px" >Cloud</text>
+<text x="491.55" y="466" fill="#a5b3c4" style="font-size:16px" >........................................</text>
+<text x="1168" y="466" fill="#235e92" style="font-size:16px" text-anchor="end">Cisco Umbrella / DNS Security</text>
+<text x="424" y="491" fill="#9a520d" style="font-size:16px" >XDR</text>
+<text x="472.25" y="491" fill="#a5b3c4" style="font-size:16px" >.................................................</text>
+<text x="1168" y="491" fill="#235e92" style="font-size:16px" text-anchor="end">Microsoft Defender XDR</text>
+<text x="424" y="516" fill="#9a520d" style="font-size:16px" >Análise</text>
+<text x="510.85" y="516" fill="#a5b3c4" style="font-size:16px" >...........................................</text>
+<text x="1168" y="516" fill="#235e92" style="font-size:16px" text-anchor="end">KQL / Splunk / Wireshark</text>
+<text x="424" y="555" fill="#087b83" style="font-size:13px" >03</text>
+<text x="455" y="555" fill="#63748b" style="font-size:13px" letter-spacing="1.2">FORMAÇÃO &amp; IDIOMAS</text>
+<path d="M635 551H1168" stroke="#d2dae4"/>
+<text x="424" y="584" fill="#9a520d" style="font-size:16px" >Estudos</text>
+<text x="510.85" y="584" fill="#a5b3c4" style="font-size:16px" >......................................................</text>
+<text x="1168" y="584" fill="#235e92" style="font-size:16px" text-anchor="end">CCNP Security</text>
+<text x="424" y="609" fill="#9a520d" style="font-size:16px" >Idiomas</text>
+<text x="510.85" y="609" fill="#a5b3c4" style="font-size:16px" >.......................................</text>
+<text x="1168" y="609" fill="#235e92" style="font-size:16px" text-anchor="end">Português / Inglês / Francês</text>
+<text x="424" y="634" fill="#9a520d" style="font-size:16px" >Interesses</text>
+<text x="539.8" y="634" fill="#a5b3c4" style="font-size:16px" >...........................</text>
+<text x="1168" y="634" fill="#235e92" style="font-size:16px" text-anchor="end">Labs de redes / Segurança / Automação</text>
+<rect x="424" y="660" width="28" height="13" rx="0" fill="#29374b" />
+<rect x="452" y="660" width="28" height="13" rx="0" fill="#c54850" />
+<rect x="480" y="660" width="28" height="13" rx="0" fill="#9a520d" />
+<rect x="508" y="660" width="28" height="13" rx="0" fill="#a16a09" />
+<rect x="536" y="660" width="28" height="13" rx="0" fill="#227345" />
+<rect x="564" y="660" width="28" height="13" rx="0" fill="#087b83" />
+<rect x="592" y="660" width="28" height="13" rx="0" fill="#235e92" />
+<rect x="620" y="660" width="28" height="13" rx="0" fill="#7352aa" />
+<path d="M30 695H1170" stroke="#d2dae4"/>
+<text x="30" y="732" fill="#227345" style="font-size:16px" >alexandre@workstation</text>
+<text x="234" y="732" fill="#63748b" style="font-size:16px" >:~$</text>
+<rect x="280" y="717" width="10" height="18" rx="1" fill="#087b83" class="cursor"/>
+<text x="1168" y="731" fill="#63748b" style="font-size:13px" text-anchor="end">redes · segurança · código</text>
+</svg>

@@ -25,7 +25,7 @@ text {font-family: "DejaVu Sans Mono", Consolas, "Liberation Mono", monospace; f
 <text x="33" y="232" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> .------------------------.  .----------.</text>
 <text x="33" y="251" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | .--------------------. |  |  ======  |</text>
 <text x="33" y="270" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |                    | |  |  ======  |</text>
-<text x="33" y="289" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |  <tspan fill="#29374b">alexandre@lab:~$</tspan>   | |  |          |</text>
+<text x="33" y="289" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |  <tspan fill="#29374b">alexandre@lab:~$</tspan>  | |  |          |</text>
 <text x="33" y="308" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |                    | |  |  .----.  |</text>
 <text x="33" y="327" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |  <tspan fill="#227345">&gt; configure</tspan>       | |  |  |####|  |</text>
 <text x="33" y="346" fill="#087b83" style="font-size:13.4px" xml:space="preserve"> | |  <tspan fill="#9a520d">&gt; defend</tspan>          | |  |  &#x27;----&#x27;  |</text>

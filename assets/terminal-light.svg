@@ -48,7 +48,7 @@ text {font-family: "DejaVu Sans Mono", Consolas, "Liberation Mono", monospace; f
 <text x="1168" y="230" fill="#235e92" style="font-size:16px" text-anchor="end">Windows 11 / Ubuntu 24.04</text>
 <text x="424" y="255" fill="#9a520d" style="font-size:16px" >Certificações</text>
 <text x="568.75" y="255" fill="#a5b3c4" style="font-size:16px" >............................................</text>
-<text x="1168" y="255" fill="#235e92" style="font-size:16px" text-anchor="end">CCNA / CMNA / FCA</text>
+<text x="1168" y="255" fill="#235e92" style="font-size:16px" text-anchor="end">CCNA / CMNA / FCA / SC-900</text>
 <text x="424" y="294" fill="#087b83" style="font-size:13px" >01</text>
 <text x="455" y="294" fill="#63748b" style="font-size:13px" letter-spacing="1.2">FOCO TÉCNICO</text>
 <path d="M581 290H1168" stroke="#d2dae4"/>

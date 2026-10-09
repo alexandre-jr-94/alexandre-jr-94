@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
 <title id="title">Alexandre Andriani — Cibersegurança e Redes</title>
-<desc id="desc">Perfil em formato de terminal, com um computador desktop em ASCII. Certificações CCNA, CMNA e FCA. Foco em Network Security, hardening, VPN, firewalls, IDS/IPS, segmentação, monitoramento e threat hunting. Ferramentas: Cisco Umbrella, Microsoft Defender XDR, KQL, Splunk e Wireshark. Estudos em CCNP Security. Idiomas: português, inglês e francês. Interesses: laboratórios de redes, segurança e automação.</desc>
+<desc id="desc">Perfil em formato de terminal, com um computador desktop em ASCII. Certificações CCNA, CMNA, FCA. Foco em Network Security, hardening, VPN, firewalls, IDS/IPS, segmentação, monitoramento e threat hunting. Ferramentas: Cisco Umbrella, Microsoft Defender XDR, KQL, Splunk e Wireshark. Estudos em CCNP Security. Idiomas: português, inglês e francês. Interesses: laboratórios de redes, segurança e automação.</desc>
 <style>
 text {font-family: "DejaVu Sans Mono", Consolas, "Liberation Mono", monospace; font-size: 16px; white-space: pre;}
 .cursor {animation: blink 1.2s steps(1,end) infinite;}
@@ -48,7 +48,7 @@ text {font-family: "DejaVu Sans Mono", Consolas, "Liberation Mono", monospace; f
 <text x="1168" y="230" fill="#afd2f5" style="font-size:16px" text-anchor="end">Windows 11 / Ubuntu 24.04</text>
 <text x="424" y="255" fill="#eab980" style="font-size:16px" >Certificações</text>
 <text x="568.75" y="255" fill="#435267" style="font-size:16px" >............................................</text>
-<text x="1168" y="255" fill="#afd2f5" style="font-size:16px" text-anchor="end">CCNA / CMNA / FCA</text>
+<text x="1168" y="255" fill="#afd2f5" style="font-size:16px" text-anchor="end">CCNA / CMNA / FCA / SC-900</text>
 <text x="424" y="294" fill="#70d7dd" style="font-size:13px" >01</text>
 <text x="455" y="294" fill="#8192a7" style="font-size:13px" letter-spacing="1.2">FOCO TÉCNICO</text>
 <path d="M581 290H1168" stroke="#303b49"/>

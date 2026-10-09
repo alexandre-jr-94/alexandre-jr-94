@@ -40,7 +40,7 @@ text {font-family: "DejaVu Sans Mono", Consolas, "Liberation Mono", monospace; f
 <text x="33" y="517" fill="#70d7dd" style="font-size:13.4px" xml:space="preserve">/  [] [] [] [] [] [] [] [] [] [] \ |  |  </text>
 <text x="33" y="536" fill="#70d7dd" style="font-size:13.4px" xml:space="preserve">&#x27;-------------------------------&#x27; &#x27;--&#x27;  </text>
 <text x="204" y="588" fill="#d6e2ef" style="font-size:13px" text-anchor="middle" letter-spacing="0.5">CONFIGURE. DEFEND. BUILD.</text>
-<text x="204" y="615" fill="#8192a7" style="font-size:12px" text-anchor="middle">[ CCNA ]  [ CMNA ]  [ FCA ]</text>
+<text x="204" y="615" fill="#8192a7" style="font-size:12px" text-anchor="middle">[ CCNA ]  [ CMNA ]  [ FCA ] [ SC-900 ]</text>
 <text x="424" y="167" fill="#d6e2ef" style="font-size:23px" font-weight="bold">Alexandre Andriani</text>
 <text x="424" y="195" fill="#70d7dd" style="font-size:16px" >Cibersegurança &amp; Redes</text>
 <text x="424" y="230" fill="#eab980" style="font-size:16px" >OS</text>
